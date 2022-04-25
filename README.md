@@ -1,4 +1,4 @@
-# Hi, I'm Kunal Thakkar! 👽
+# Hi, I'm Aayush Sharma! 👽
 ![Logo](assets/logo.svg)
 ## About Me 🚀
 ![itsme](assets/ItsMe.svg)
@@ -7,12 +7,11 @@ I am an Engineering Student and I love to design and code. I started a company c
 
 I love executing ideas and build something that people find value in :sunflower:.
 Whether you'd like to discuss building an idea together, ask me a question or just want to say hi, my inbox is always open :smile:</br>
-:love_letter: : thakkar.km@somaiya.edu </br>
+:love_letter: :ayush454sharma@gmail.com </br>
  :round_pushpin:  &nbsp; : Mumbai, Bharat (India) 
 
 ## Connect With Me :link:
-[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kunal-thakkar-parallelpvt) &nbsp; &nbsp; &nbsp;
-[![instagram](assets/instagram.svg)](https://www.instagram.com/kuchbhikunal) 
+[![instagram](assets/instagram.svg)](https://https://www.instagram.com/ayushsharma7539/) 
 
 ## Frequently Asked :thought_balloon:
 
